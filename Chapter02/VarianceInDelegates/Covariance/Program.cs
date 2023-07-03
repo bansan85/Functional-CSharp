@@ -7,8 +7,8 @@ namespace Covariance
     {
         static void Main(string[] args)
         {
-            CovarianceStreamWriterInvoke();
-            //CovarianceStringWriterInvoke();
+            //CovarianceStreamWriterInvoke();
+            CovarianceStringWriterInvoke();
         }
     }
 
